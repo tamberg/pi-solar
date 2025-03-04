@@ -27,17 +27,26 @@ Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 - Wire cutter (optional)
 
 ## Open the solar power manager
+![pi-solar-power-manager](https://github.com/user-attachments/assets/c0764fcd-574f-4199-b946-ac76b5bc6836)
 
 ## Add the Li-Ion batteries
+![pi-solar-batteries](https://github.com/user-attachments/assets/126c9739-dacf-49b1-8bd4-8d0d2d56bbc2)
 
 ## Unsolder or cut clamps
+![pi-solar-clamps](https://github.com/user-attachments/assets/a8c79344-5f25-45b9-b092-04e531234188)
+
+![pi-solar-unsolder](https://github.com/user-attachments/assets/e631ffb1-9367-4a0c-955a-2f7fc5bf1b82)
 
 ## Screw wire terminals
+![pi-solar-screw-terminal](https://github.com/user-attachments/assets/df411616-36e3-4373-bf1e-a7104d271479)
 
 ## Connect all cables
+![pi-solar-back](https://github.com/user-attachments/assets/cca3e249-260d-4acc-9c91-fa3e098ad096)
 
 ## Limitations
 The solar panel might be too small to recharge the batteries under full load.
+
+![pi-solar-with-meter](https://github.com/user-attachments/assets/d5be96a8-c2db-40df-b5e8-180e2b145f8d)
 
 ## License
 This content by [@tamberg](https://twitter.com/tamberg) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
