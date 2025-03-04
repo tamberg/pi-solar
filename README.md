@@ -38,15 +38,22 @@ Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 ![pi-solar-unsolder](https://github.com/user-attachments/assets/e631ffb1-9367-4a0c-955a-2f7fc5bf1b82)
 
 ## Screw wire terminals
+The red clamp is plus (+), the black clamp is ground (-).
+
 ![pi-solar-screw-terminal](https://github.com/user-attachments/assets/df411616-36e3-4373-bf1e-a7104d271479)
 
 ## Connect all cables
 ![pi-solar-back](https://github.com/user-attachments/assets/cca3e249-260d-4acc-9c91-fa3e098ad096)
 
-## Limitations
-The solar panel might be too small to recharge the batteries under full load.
+## Do the math
+Use a power meter to measure voltage (V) and power (A), see how far a charge can get you.
 
 ![pi-solar-with-meter](https://github.com/user-attachments/assets/d5be96a8-c2db-40df-b5e8-180e2b145f8d)
+
+## Limitations
+- The solar panel might not allow 24 h usage
+- Recharging the batteries might take time
+- A Pi is not exactly a low power device
 
 ## License
 This content by [@tamberg](https://twitter.com/tamberg) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
