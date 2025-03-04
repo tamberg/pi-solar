@@ -48,7 +48,7 @@ The red clamp is plus (+), the black clamp is ground (-).
 ![pi-solar-back](https://github.com/user-attachments/assets/cca3e249-260d-4acc-9c91-fa3e098ad096)
 
 ## Do the math
-Use a power meter to measure voltage (V) and current (A), see how far a charge can get you.
+Use a power meter to measure voltage (V) and current (A), to see how far a charge can get you.
 
 ![pi-solar-with-meter](https://github.com/user-attachments/assets/d5be96a8-c2db-40df-b5e8-180e2b145f8d)
 
