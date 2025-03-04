@@ -30,3 +30,6 @@ Run a Pi on solar energy.
 ## Unsolder or cut clamps
 
 ## Connect all cables
+
+## Limitations
+The solar panel might be too small to recharge the batteries under full load.
