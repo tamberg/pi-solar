@@ -30,6 +30,8 @@ Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 
 ## Unsolder or cut clamps
 
+## Screw wire terminals
+
 ## Connect all cables
 
 ## Limitations
