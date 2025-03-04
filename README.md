@@ -4,7 +4,7 @@ Run a Pi on solar energy.
 ## Use the Pi
 - Set up the solar panel
 - Switch on the battery
-- Use the Pi, e.g. for a
+- Use the Pi, e.g. as a
     - [Pi Etherpad Server](https://github.com/tamberg/pi-etherpad)
     - [Pi LoRaWAN Sensor](https://github.com/tamberg/pi-lora)
     - [Pi Timelapse Camera](https://github.com/tamberg/pi-cam)
