@@ -36,3 +36,6 @@ Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 
 ## Limitations
 The solar panel might be too small to recharge the batteries under full load.
+
+## License
+This content by [@tamberg](https://twitter.com/tamberg) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
