@@ -16,6 +16,7 @@ Run a Pi on solar energy.
 - [Solar Panel 18V, 10W](https://www.pi-shop.ch/semi-flexible-polycrystalline-silicon-solar-panel-18v-10w-supports-5v-regulated-output) CHF 20 (or [this](https://www.bastelgarage.ch/18v-0-61a-monokristallines-solar-panel-10w), CHF 33)
 - [Solar Power Manager](https://www.pi-shop.ch/solar-power-manager) CHF 35 (or [this](https://www.bastelgarage.ch/solar-power-manager-c-fur-6-24v-solar-panel?search=solar%20power%20manager), CHF 24)
 - 3 * [Li-Ion Battery 18650, 3200mA](https://www.bastelgarage.ch/li-ion-akku-3-7v-3200ma-ncr18650b-18650-mit-knopfpol?search=ncr18650b) (CHF 9)
+- USB-A to Micro cable for Pi 3 B+, or USB-C cable for Pi 4.
 
 ## Get the tools
 - Screw driver (might be included)
