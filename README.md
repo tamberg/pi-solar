@@ -30,6 +30,8 @@ Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 ![pi-solar-power-manager](https://github.com/user-attachments/assets/c0764fcd-574f-4199-b946-ac76b5bc6836)
 
 ## Add the Li-Ion batteries
+Make sure the polarity (+/-) is as indicated.
+
 ![pi-solar-batteries](https://github.com/user-attachments/assets/126c9739-dacf-49b1-8bd4-8d0d2d56bbc2)
 
 ## Unsolder or cut clamps
