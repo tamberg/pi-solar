@@ -4,7 +4,7 @@ Run a Pi on solar energy.
 ## Use the Pi
 - Set up the solar panel
 - Switch on the battery
-- Use, e.g. [Etherpad](https://github.com/tamberg/pi-etherpad).
+- Use it, e.g. for [Etherpad](https://github.com/tamberg/pi-etherpad).
 
 # Make your own
 ## Get the hardware
