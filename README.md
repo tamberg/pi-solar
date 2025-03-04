@@ -1,6 +1,8 @@
 # Pi Solar
 Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 
+![pi-solar](https://github.com/user-attachments/assets/32765f14-62b0-44f6-b0d0-d919e0906cc4)
+
 ## Use the Pi
 - Set up the solar panel
 - Switch on the battery
