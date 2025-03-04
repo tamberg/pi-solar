@@ -1,5 +1,5 @@
 # Pi Solar
-Run a Pi on solar energy.
+Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 
 ## Use the Pi
 - Set up the solar panel
