@@ -61,5 +61,6 @@ Use a power meter to measure voltage (V) and current (A), see how far one charge
 This content by [@tamberg](https://twitter.com/tamberg) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## More
+- https://www.flickr.com/photos/tamberg/albums/72177720325790438/ (Pi Solar Stand)
 - https://www.raspberrypi.com/documentation/computers/getting-started.html
 - https://www.waveshare.com/wiki/Solar_Power_Manager_(C)
