@@ -81,7 +81,7 @@ On your computer.
 
 On the Pi.
 
-- Enable i2C (once) 
+- Enable I2C (once) 
     ```bash
 	$ sudo raspi-config # Interface Options > I2C > Yes
     ```
