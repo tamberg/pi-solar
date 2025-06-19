@@ -70,10 +70,10 @@ On your computer.
     ```
     Paste the schedule, e.g.
     ```bash
-	BEGIN 2025-01-01 00:00:00
+	BEGIN 2025-01-01 11:00:00
 	END   2035-12-31 23:59:59
-	ON    H0 M5
-	OFF   H0 M10
+	ON    H3 M0
+	OFF   H21 M0
     ```
     Save with _CTRL-X-Y ENTER_
 - Eject the _Witty Pi_ drive
