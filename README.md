@@ -54,7 +54,7 @@ Use a power meter to measure voltage (V) and current (A), see how far one charge
 ![pi-solar-with-meter](https://github.com/user-attachments/assets/d5be96a8-c2db-40df-b5e8-180e2b145f8d)
 
 ## Manage power
-Consider using a Witty Pi power manager to switch the Pi on or off based on a schedule.
+Consider using a [Witty Pi 5](https://www.uugear.com/doc/WittyPi5_UserManual.pdf) power manager to switch the Pi on or off based on a schedule.
 
 On your computer.
 
