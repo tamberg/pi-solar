@@ -99,6 +99,7 @@ On the Pi.
     ```bash
 	$ wp5 # 6 > 1
     ```
+- Observe the Pi switching on and off on schedule
 
 ## Limitations
 - The solar panel might not allow 24 h usage
