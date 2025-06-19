@@ -17,7 +17,7 @@ Run a Pi on solar energy, initiated by [titipi.org](https://titipi.org/).
 - [Kingston SD card 16 GB](https://www.pi-shop.ch/kingston-microsdhc-karte-industrial-uhs-i-16-gb) (CHF 23; or similar)
 - [Solar Panel 18V, 10W](https://www.pi-shop.ch/semi-flexible-polycrystalline-silicon-solar-panel-18v-10w-supports-5v-regulated-output) (CHF 20; or [this](https://www.bastelgarage.ch/18v-0-61a-monokristallines-solar-panel-10w), CHF 33)
 - [Solar Power Manager](https://www.bastelgarage.ch/solar-power-manager-c-fur-6-24v-solar-panel) (CHF 24; or [this](https://www.pi-shop.ch/solar-power-manager), CHF 35)
-- [Witty Pi Power Manager](https://www.pi-shop.ch/witty-pi-5-hat-realtime-clock-and-power-management-for-raspberry-pi) (CHF 45)
+- [Witty Pi Power Manager](https://www.pi-shop.ch/witty-pi-5-hat-realtime-clock-and-power-management-for-raspberry-pi) (CHF 45, plus [CR2032 batteries](https://www.digitec.ch/en/s1/product/digitec-cr2032-lithium-8-pcs-cr2032-230-mah-batteries-36011518))
 - 3 * [Li-Ion Battery 18650, 3200mA](https://www.bastelgarage.ch/li-ion-akku-3-7v-3200ma-ncr18650b-18650-mit-knopfpol?search=ncr18650b) (CHF 9)
 - USB cable for Pi 3 B+ (Micro) or Pi 4 (USB-C)
 
