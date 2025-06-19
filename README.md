@@ -90,7 +90,7 @@ On the Pi.
     ```
 - Add the hat to the Pi and insert a CR2032 battery
 - Move USB power from the Pi to the Witty Pi 5 hat
-- Press the power button on the hat to switch it on
+- Press the big button on the hat to switch on the Pi
 - Use the _wp5_ software to _Write system time to RTC_
     ```bash
 	$ wp5 # 1
