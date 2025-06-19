@@ -75,6 +75,7 @@ On your computer.
     ```
     Save with _CTRL-X-Y ENTER_
 - Eject the _Witty Pi_ drive
+- Unplug the hat from USB
 
 On the Pi.
 
@@ -87,7 +88,7 @@ On the Pi.
 	$ wget https://www.uugear.com/repo/WittyPi5/wp5_latest.deb
     $ sudo apt install ./wp5_latest.deb
     ```
-- Add the hat to the Pi, and insert a CR2032 battery
+- Add the hat to the Pi, insert a CR2032 battery
 - Use the _wp5_ software to _Write system time to RTC_
     ```bash
 	$ wp5 # 1
