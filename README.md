@@ -89,6 +89,7 @@ On the Pi.
     $ sudo apt install ./wp5_latest.deb
     ```
 - Add the hat to the Pi and insert a CR2032 battery
+- Move USB power from the Pi to the Witty Pi 5 hat
 - Use the _wp5_ software to _Write system time to RTC_
     ```bash
 	$ wp5 # 1
