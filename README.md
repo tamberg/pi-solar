@@ -91,11 +91,11 @@ On the Pi.
 - Add the hat to the Pi and insert a CR2032 battery
 - Move USB power from the Pi to the Witty Pi 5 hat
 - Press the big button on the hat to switch on the Pi
-- Use the _wp5_ software to _Write system time to RTC_
+- Use the _wp5_ software to _write system time to RTC_
     ```bash
 	$ wp5 # 1
     ```
-- Use the _wp5_ software to _Choose schedule script_
+- Use the _wp5_ software to _choose schedule script_
     ```bash
 	$ wp5 # 6 > 1
     ```
