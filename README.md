@@ -68,7 +68,7 @@ On your computer.
     ```bash
     $ sudo nano Witty\ Pi\ 5/schedule/my.wpi
     ```
-    Paste the schedule, e.g.
+    Paste the schedule, e.g. daily 11-14:00
     ```bash
 	BEGIN 2025-01-01 11:00:00
 	END   2035-12-31 23:59:59
