@@ -58,6 +58,8 @@ Consider using a [Witty Pi 5](https://www.uugear.com/doc/WittyPi5_UserManual.pdf
 
 On your computer.
 
+> Note: We assume your computer runs MacOS.
+
 - Plug in the Witty Pi 5 hat via USB
 - Wait for the _Witty Pi_ drive to mount
 - Create a schedule with the [online editor](https://www.uugear.com/app/wittypi-scriptgen/
