@@ -53,8 +53,46 @@ Use a power meter to measure voltage (V) and current (A), see how far one charge
 
 ![pi-solar-with-meter](https://github.com/user-attachments/assets/d5be96a8-c2db-40df-b5e8-180e2b145f8d)
 
-## Reduce power usage
+## Manage power
+Consider using a Witty Pi power manager to switch the Pi on or off based on a schedule.
 
+On your computer.
+
+- Plug in the Witty Pi 5 hat via USB
+- Wait for the _Witty Pi_ drive to mount
+- Create a file _my.wpi_ on the drive
+    ```bash
+    $ sudo nano Witty\ Pi\ 5/schedule/my.wpi
+    ```
+    Paste this
+    ```bash
+	BEGIN 2025-01-01 00:00:00
+	END   2035-12-31 23:59:59
+	ON    H0 M5
+	OFF   H0 M10
+    ```
+    Save with _CTRL-X-Y ENTER_
+- Eject the _Witty Pi_ drive
+
+On the Pi.
+
+- Enable i2C (once) 
+    ```bash
+	$ sudo raspi-config # Interface Options > I2C > Yes
+    ```
+- Install the _wp5_ software (once)
+    ```bash
+	$ wget https://www.uugear.com/repo/WittyPi5/wp5_latest.deb
+    $ sudo apt install ./wp5_latest.deb
+    ```
+- Use the _wp5_ software to _Write system time to RTC_
+    ```bash
+	$ wp5 # 1
+    ```
+- Use the _wp5_ software to _Choose schedule script_
+    ```bash
+	$ wp5 # 6 > 1
+    ```
 
 ## Limitations
 - The solar panel might not allow 24 h usage
