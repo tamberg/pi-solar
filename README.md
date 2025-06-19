@@ -60,11 +60,13 @@ On your computer.
 
 - Plug in the Witty Pi 5 hat via USB
 - Wait for the _Witty Pi_ drive to mount
+- Create a schedule with the [online editor](https://www.uugear.com/app/wittypi-scriptgen/
+)
 - Create a file _my.wpi_ on the drive
     ```bash
     $ sudo nano Witty\ Pi\ 5/schedule/my.wpi
     ```
-    Paste this
+    Paste the schedule, e.g.
     ```bash
 	BEGIN 2025-01-01 00:00:00
 	END   2035-12-31 23:59:59
