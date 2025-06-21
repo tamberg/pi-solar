@@ -48,8 +48,10 @@ The red clamp is plus (+), the black clamp is ground (-).
 ## Connect all cables
 ![pi-solar-back](https://github.com/user-attachments/assets/cca3e249-260d-4acc-9c91-fa3e098ad096)
 
-## Do the math
-Use a power meter to measure voltage (V) and current (A), see how far one charge can get you.
+## Run a first test
+- Fully charge the batteries, see how long they run the Pi.
+- Use a power meter to measure voltage (V) and current (A).
+- Calculate how long you can run the Pi on an average day.
 
 ![pi-solar-with-meter](https://github.com/user-attachments/assets/d5be96a8-c2db-40df-b5e8-180e2b145f8d)
 
